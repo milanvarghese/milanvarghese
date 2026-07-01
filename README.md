@@ -1,7 +1,7 @@
 ![Header](https://github.com/milanvarghese/milanvarghese/blob/main/2.png "Header")
 ### Hello Folks! <img src="https://raw.githubusercontent.com/milanvarghese/milanvarghese/master/wave.gif" width="30px">
 
-I'm Milan — a Master's student in Artificial Intelligence & Machine Learning at Drexel University. I work across the full stack of applied AI: training and evaluating language models, building LLM-powered products, and shipping them to production. I'm most interested in LLMs, agentic systems, and making ML actually ship.
+I'm Milan — a Master's student in Artificial Intelligence & Machine Learning at Drexel University. I work across the full stack of applied AI: training and evaluating language models, building LLM-powered products, and shipping them to production. I'm most interested in LLMs, agentic systems, and making ML systems actually ship.
 
 ## 🔧 Technologies & Tools
 
